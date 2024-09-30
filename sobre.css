@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: rgb(220, 222, 224);
+
+}
+body{
+    
+
+}
+
+nav{
+    margin: 50px;
+    background-color: rgb(223, 217, 217);
+}
+
+   header{
+    background-color: rgb(177, 191, 202);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+   }
+   h3{
+    text-align: center;
+   }
+   p{
+    text-align: center;
+   }
